@@ -1,4 +1,8 @@
 # uas-algoritma
+NAMA: FANDRI INDRANATA
+NIM:230401010180
+KELAS: IT201
+
 No.1
 #include <iostream>: Menyertakan header iostream untuk input/output standar seperti cin dan cout.
 #include <string>: Menyertakan header string untuk menggunakan tipe data string.
