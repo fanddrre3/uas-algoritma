@@ -1,1 +1,1 @@
-# uas-algotitma
+# uas-algoritma
